@@ -18,10 +18,9 @@ If you use the code or any results in your work then refer to our papers [1,2].
   pages                    = {165-172},  
   volume                   = {II-3/W4},  
   doi                      = {10.5194/isprsannals-II-3-W4-165-2015},  
-  timestamp                = {2015-03-26}  
-}  
+  timestamp                = {2015-03-26}}  
 
-[2] Roland Perko, Hannes Raggam, and Peter M. Roth. Mapping with Pleiades - End-to-end workflow. Remote Sensing, Special Issue on 3D Reconstruction Based on Aerial and Satellite Imagery, 11(17):2052, September 2019.
+[2] Roland Perko, Hannes Raggam, and Peter M. Roth. Mapping with Pleiades - End-to-end workflow. Remote Sensing, 11(17):2052, September 2019.
 
 @Article{perko2019mapping,  
   author    = {Roland Perko and Hannes Raggam and Peter M. Roth},  
@@ -35,7 +34,6 @@ If you use the code or any results in your work then refer to our papers [1,2].
   doi       = {10.3390/rs11172052},  
   url       = {https://www.mdpi.com/2072-4292/11/17/2052},   
   month     = {September},  
-  timestamp = {2019-09-01},  
-}  
+  timestamp = {2019-09-01}}  
 
 [3] https://www.remotesensing.at/remote-sensing-software/
