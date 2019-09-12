@@ -4,6 +4,10 @@ Here you find a naive and thus simple Matlab implementation of the Digital Terra
 
 If you use the code or any results in your work then refer to our papers [1,2].
 
+# Exemplary Data
+
+Test data and results can be found under [4].
+
 # References
 
 [1] Roland Perko, Hannes Raggam, Karlheinz Gutjahr, and Mathias Schardt. Advanced DTM generation from very high resolution satellite stereo images. In ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, volume II-3/W4, pages 165-172, Munich, Germany, March 2015.
@@ -37,3 +41,5 @@ If you use the code or any results in your work then refer to our papers [1,2].
   timestamp = {2019-09-01}}  
 
 [3] https://www.remotesensing.at/remote-sensing-software/
+
+[4] https://drive.google.com/file/d/1rmksbrauHmSaEQJPwssT5-ys15Dc_NUy/view?usp=sharing
