@@ -8,8 +8,8 @@ If you use the code or any results in your work then refer to our papers [1,2].
 
 [1] Roland Perko, Hannes Raggam, Karlheinz Gutjahr, and Mathias Schardt. Advanced DTM generation from very high resolution satellite stereo images. In ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, volume II-3/W4, pages 165-172, Munich, Germany, March 2015.
 
-@InProceedings{perko2015advanced, 
-  title                    = {Advanced {DTM} generation from very high resolution satellite stereo images}, 
+@InProceedings{perko2015advanced,  
+  title                    = {Advanced {DTM} generation from very high resolution satellite stereo images},  
   author                   = {Roland Perko and Hannes Raggam and Karlheinz Gutjahr and Mathias Schardt}, 
   booktitle                = {ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences}, 
   year                     = {2015}, 
